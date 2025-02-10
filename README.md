@@ -52,10 +52,6 @@ Iniciamos o processo de desenvolvimento do Dinomon em 24 de novembro, quando dec
 
 Após, foi hora de desenvolver o jogo mesmo, criar as classes, as telas, os botões, cartas, lógica, etc. Utilizando Java e orientação a objetos fica muito nítido como o jogo e suas telas funcionam, parece tudo muito organizado. O maior desafio foi a compreensão do libgdx para criação do jogo, algumas funções demoraram a fazer sentidoe e isto atrasou um pouco o processo. Na parte do quiz, foi interessante ler um pouco mais sobre o Geoparque Quarta Colônia e como temos material científico sendo produzido aqui pertinho. Todas as fontes que utilizamos para as perguntas do quiz podem ser encontradas nas referências. 
 
-## Diagrama de Classes
-
-<img src="https://github.com/elc117/game-2024b-dinomon-tcg/blob/main/diagramaclasses.png" alt="Diagrama">
-
 ## Referências
 Material utilizado no quiz
 - https://dinossaurosdobrasil.wixsite.com/dinossauros-e-afins/macrocollum
